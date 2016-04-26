@@ -11,7 +11,7 @@
   <allow-navigation href="data:*" />
 
   <allow-intent href="*" />
-
+<preference name="android-build-tool" value="ant" />
   <preference name="webviewbounce" value="false"/>
   <preference name="UIWebViewBounce" value="false"/>
   <preference name="DisallowOverscroll" value="true"/>
